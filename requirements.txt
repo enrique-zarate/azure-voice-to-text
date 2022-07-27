@@ -1,0 +1,7 @@
+pydub
+flask
+python-dotenv
+azure-ai-textanalytics==5.2.0b4
+numpy
+pandas
+sqlalchemy
